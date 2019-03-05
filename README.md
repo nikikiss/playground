@@ -4,6 +4,17 @@
 Some code snippets I wrote.
 
 ## Pandas
+### [Woman vs Man Wage Comparison](./Pandas/Pandas-Woman_vs_Man_wage_gap.ipynb)
+An analysis which introduces the gap between female and male hourly wages in London and in the UK, from 1997 to 2018. There are three different hourly rates for each gender, for each year and these are part-time, full-time and all (part-time and full-time weighted average) hourly rates. The source of data is London datastore. 
+
+The analysis also includes an additional data frame with London living wage, UK living wage and national minimum wage (hourly rates).  
+
+What is included in the analysis?:
+- data import
+- general data frame information
+- data cleansing / replacement
+- data visualization
+- data filtering
 
 
 ## Excel
